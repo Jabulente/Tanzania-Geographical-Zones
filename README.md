@@ -44,8 +44,8 @@ Tanzania Geographical Zones/
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd anzania-Geographical-Zones
+git clone https://github.com/Jabulente/Tanzania-Geographical-Zones.git
+cd Tanzania-Geographical-Zones
 ```
 
 2. Install dependencies:
