@@ -1,4 +1,4 @@
-# Visualization of Tanzania Geographical Zones and Its Regions
+<h2 align='center'> Visualization of Tanzania Geographical Zones and Its Regions</h1>
 
 ## 📌 Project Overview
 
@@ -45,7 +45,7 @@ Tanzania Geographical Zones/
 
 ```bash
 git clone <your-repo-url>
-cd tanzania_visualization
+cd anzania-Geographical-Zones
 ```
 
 2. Install dependencies:
